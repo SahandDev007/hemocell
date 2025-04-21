@@ -4,7 +4,7 @@ HemoCell is a web application built with ReactJS, Node.js, MySQL, and Tailwind C
 
 ## Mockup
 
-https://github.com/moazamdev/alter-ui/assets/89134865/5b5d4561-260b-440d-9d9f-adde3ed9f6aa
+https://github.com/SahandDev007/alter-ui/assets/89134865/5b5d4561-260b-440d-9d9f-adde3ed9f6aa
 
 ## Table of Contents
 
@@ -43,13 +43,13 @@ HemoCell addresses the following solutions:
 
 ## Developer
 
-HemoCell was developed by [Moazam Ali](https://www.linkedin.com/in/moazamdev/), a software engineer with experience in web development.
+HemoCell was developed by [Moazam Ali](https://www.linkedin.com/in/SahandDev007/), a software engineer with experience in web development.
 
 ## Instructions to Run
 
 To run HemoCell locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/moazamdev/hemocell.git`
+1. Clone the repository: `git clone https://github.com/SahandDev007/hemocell.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start` or `npm run dev`
 
